@@ -6,7 +6,7 @@ compatibility_date = "2024-05-12"
 SIGN_SECRET = "8a1317a7468aa3ad86e997d08f3f31cb"
 # 管理 API 的保护密钥，建议部署前修改为随机强密码
 # 如未设置，管理接口将开放访问（不推荐用于生产环境）
-ADMIN_KEY = "changeme"
+ADMIN_KEY = "lianghao"
 
 # 自动补池配置（部署后也可通过管理面板动态修改）
 # 默认启用，部署后无需任何手动配置即可自动抓取游客 Token 维持服务
