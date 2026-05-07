@@ -23,4 +23,4 @@ crons = ["0 * * * *"]
 # 然后将输出的 id 填入下方
 [[kv_namespaces]]
 binding = "GLM_TOKENS"
-id = "02cc3c77a4df4786be701940b4c75083"  # <-- 替换为你创建 KV 后得到的 id
+id = "5d718e4deb514c8f9ebff69fe73fd3c6"  # <-- 替换为你创建 KV 后得到的 id
